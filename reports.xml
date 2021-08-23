@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="32.058292">
+<testcase classname="To validate the adactin webpage completely." name="To validate with the correct username and userpassword." time="19.226195">
+<system-out><![CDATA[Given user should be in adactin webpage.....................................passed
+When To enter the username and password.....................................passed
+And To search the hotel.....................................................passed
+And To select the hotel.....................................................passed
+And user should enter "ben"and"stoke"and"london"and"1234567891012124"and"456"..passed
+Then user confirmation whether booked or not with ID generated..............passed
+]]></system-out>
+</testcase>
+<testcase classname="To validate the adactin webpage completely." name="To validate with the correct username and userpassword. 2" time="12.832097">
+<system-out><![CDATA[Given user should be in adactin webpage.....................................passed
+When To enter the username and password.....................................passed
+And To search the hotel.....................................................passed
+And To select the hotel.....................................................passed
+And user should enter "ben"and"stoke"and"london"and"1234567891012124"and"456"..passed
+Then user confirmation whether booked or not with ID generated..............passed
+]]></system-out>
+</testcase>
+</testsuite>
